@@ -28,7 +28,7 @@ Key points covered:
 ![imagen](https://github.com/YosefGuevara012/Marine-mechatronics/assets/54146941/bfd4ff8f-9e29-407d-b325-58a6ead4adcc)
 
 
-### [More on Visual Servoing](path/to/visual_servoing_documentation)
+
 
 ## Sonar-Assisted Autonomous Navigation
 
@@ -42,7 +42,6 @@ Outlined process:
 ![imagen](https://github.com/YosefGuevara012/Marine-mechatronics/assets/54146941/98d21128-a338-44b0-8449-10608a029136)
 
 
-### [More on Sonar-Assisted Autonomous Navigation](path/to/sonar_assisted_navigation_documentation)
 
 ## Conclusions
 
